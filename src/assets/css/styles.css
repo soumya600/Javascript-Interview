@@ -11,8 +11,6 @@ h1, h3{
 	font: normal 24px 'Open Sans', Arial, Helvetica, sans-serif;
 }
 
-
-
 header {
 	position: fixed;
 	top: 0;
@@ -51,7 +49,6 @@ header h2.tzine a{
 	background-color: #5895DB;
 }
 
-
 @media (max-width: 500px){
 
 	header {
@@ -64,8 +61,6 @@ header h2.tzine a{
 	}
 
 }
-
-
 
 .main-content{
 	box-sizing: border-box;
@@ -88,9 +83,6 @@ header h2.tzine a{
 	}
 
 }
-
-
-
 
 .filters{
 	box-sizing: border-box;
@@ -145,8 +137,6 @@ header h2.tzine a{
 	margin-top: 10px;
 }
 
-
-
 .all-products h3{
 	opacity: 0;
 }
@@ -193,7 +183,6 @@ header h2.tzine a{
 	pointer-events: none;
 }
 
-
 .products-list .product-photo{
 	display: block;
 	text-align: center;
@@ -204,8 +193,6 @@ header h2.tzine a{
 	padding: 20px 0;
 	box-sizing: border-box;
 }
-
-
 
 .products-list h2{
 	display: block;
@@ -221,8 +208,6 @@ header h2.tzine a{
 	text-decoration: none;
 	color: #2B2E31;
 }
-
-
 
 .products-list .product-description{
 	margin-top: 20px;
@@ -250,8 +235,6 @@ header h2.tzine a{
 .products-list .product-description li span{
 	font-weight: bold;
 }
-
-
 
 .products-list button{
 	border-radius: 2px;
@@ -293,8 +276,6 @@ header h2.tzine a{
 	opacity: 1;
 }
 
-
-
 @media (max-width: 800px){
 
 	.products-list .product-photo{
@@ -305,8 +286,6 @@ header h2.tzine a{
 		max-width: 225px;
 	}
 }
-
-
 
 .single-product{
 	z-index: 100;
@@ -379,8 +358,6 @@ header h2.tzine a{
 	cursor: pointer;
 }
 
-
-
 .error{
 	opacity: 0;
 	transition: 0.6s;
@@ -398,4 +375,3 @@ header h2.tzine a{
 .error h3{
 	font-size: 40px;
 }
-
