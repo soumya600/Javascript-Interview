@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "queen panel bed",
+    "price": 8.99,
+    "specs": {
+      "manufacturer": "Durian",
+     "weight": 55,
+      "Material": "metal",
+      "color": "Brown"
+      
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/product-1.jpeg",
+      "large": "assets/images/product-1.jpeg"
+    }
+  },
+ {
+    "id": 2,
+    "name": "king panel bed",
+    "price": 11.99,
+    "specs": {
+      "manufacturer": "Durian",
+     "weight": 58,
+      "Material": "metal",
+      "color": "Black"
+      
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/product-2.jpeg",
+      "large": "assets/images/product-2.jpeg"
+    }
+  },
+ {
+    "id": 3,
+    "name": "italian finish bed",
+    "price": 8.99,
+    "specs": {
+      "manufacturer": "Durian",
+     "weight": 50,
+      "material": "wood",
+      "color": "White"
+      
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/product-3.jpeg",
+      "large": "assets/images/product-3.jpeg"
+    }
+  },
+ {
+    "id": 4,
+    "name": "queen panel bed",
+    "price": 8.99,
+    "specs": {
+      "manufacturer": "Durian",
+     "weight": 55,
+      "Material": "metal",
+      "color": "brown"
+      
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/product-4.jpeg",
+      "large": "assets/images/product-4.jpeg"
+    }
+  },
+ 
+ {
+    "id": 6,
+    "name": "Recliner",
+    "price": 6.99,
+    "specs": {
+      "manufacturer": "Durian",
+     "weight": 55,
+      "Material": "metal",
+      "color": "brown"
+      
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/product-6.jpeg",
+      "large": "assets/images/product-6.jpeg"
+    }
+  },
+ {
+    "id": 7,
+    "name": "Sofa",
+    "price": 8.99,
+    "specs": {
+      "manufacturer": "Godrej",
+     "weight": 55,
+      "Material": "metal",
+      "color": "brown"
+      
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/product-7.jpeg",
+      "large": "assets/images/product-7.jpeg"
+    }
+  },
+ {
+    "id": 8,
+    "name": "Chair",
+    "price": 8.99,
+    "specs": {
+      "manufacturer": "Godrej",
+     "weight": 55,
+      "Material": "metal",
+      "color": "brown"
+      
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/product-8.jpeg",
+      "large": "assets/images/product-8.jpeg"
+    }
+  }
+ 
+]
